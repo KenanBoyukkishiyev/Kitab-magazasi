@@ -1,0 +1,109 @@
+
+.Get{
+    padding: 50px 0;
+}
+
+.input{
+    float: left;
+}
+.mektub{
+    height: 90px;
+     width: 560px;
+}
+.poct{
+    width: 0px;
+}
+
+.btnsend{
+    color: white;
+    background-color:#f9ad40 ;
+    height: 50px;
+    width: 100px;
+
+}
+.btnsend:hover{
+    color: white;
+    background-color: blue;
+}
+.sosial{
+    float: right;
+
+}
+.sosial i{
+    height: 30px
+    width:30px;
+    font-size:20px;
+    border-radius:50%;
+    
+}
+
+
+.facebook{
+    background-color: silver;
+    color: white;
+}
+.facebook:hover{
+    background-color: blue;
+    color: white;
+}
+
+.twitter{
+    background-color: silver;
+    color: white;
+}
+.twitter:hover{
+    background-color: lightblue;
+    color:white;
+}
+
+
+.google{
+    background-color: silver;
+    color: white;
+}
+.google:hover{
+    background-color: red;
+    color:white;
+}
+
+.instagram{
+    
+    background-color: silver;
+    color: white;
+}
+.instagram:hover{
+    background-color: #ae3d9d;
+    color:white;
+}
+
+.wifi{
+   
+    background-color: silver;
+    color: white;
+}
+.wifi:hover{
+   
+    background-color: brown;
+    
+    color:white;
+}
+
+.telefon{
+    color: blue;
+    font-size: 30px;
+}
+
+.sosial a{
+    color:silver;
+
+}
+
+.icon a:hover{
+    color:#f9ad40;
+    
+}
+.yer{
+    color: blue;
+    font-size: 30px;
+}
+

@@ -1,0 +1,23 @@
+
+.input{
+    padding: 100px;
+}
+#usr{
+    width: 430px;
+    margin-left: 350px;
+}
+.search{
+    float: right;
+        position: relative;
+    right: 26%;
+    bottom: 34px;
+    color: white;
+    background-color: #f9ad40;
+
+}
+.search:hover{
+background-color: blue;
+color: white
+}
+
+

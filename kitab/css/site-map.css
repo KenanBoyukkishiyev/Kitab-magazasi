@@ -1,0 +1,24 @@
+
+.home{
+    padding: 50px 0px;
+}
+
+.about{
+    padding: 50px 0;
+}
+
+
+.html h1{
+    color: blue;
+    padding: 50px 0;
+
+}
+.html h1:hover{
+  color: #f9ad40;
+}
+
+ul{
+    list-style-type: none;
+}
+
+

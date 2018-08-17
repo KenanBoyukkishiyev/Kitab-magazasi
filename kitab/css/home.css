@@ -1,0 +1,286 @@
+.navbar-header{
+    position: absolute;
+    left: 1%;
+    display: inline-flex;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+.menu-main{
+    position: fixed;
+    right: 1px;
+    z-index: 4;
+    background: #fff;
+    width: 100%;
+}
+
+
+
+
+nav {
+  background: #fff;
+  box-shadow: 0 0 15px 0 rgba(0,0,0,.10)
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+  text-align: right;
+}
+
+nav li {
+  display: inline-block;
+  color: black;
+}
+
+nav a {
+  color: #000;
+  text-decoration: none;
+  display: block;
+  padding: .75em 1.75em;
+}
+
+nav li:hover {
+  background: none;
+  color: #000;
+}
+
+nav a:hover li {
+  color: #000;
+}
+
+
+.menu-sub {
+  position: absolute;
+  left: 0;
+  background: #fff;
+  width: 100%;
+  display: none;
+  color: #fff;
+  padding: 2em;
+}
+
+nav li:hover .menu-sub {
+  display: block;
+}
+
+.menu-sub li {
+  display: block;
+  color: black;
+}
+
+.menu-sub a {
+  padding: 0;
+  margin-bottom: .35em;
+}
+
+
+
+
+.menu-col-1,
+.menu-col-2,
+.menu-col-3,
+.menu-col-4 {
+  float:left
+}
+
+.menu-col-1 {
+  width: 25%;
+}
+
+.menu-col-2 {
+  width: 10%;
+}
+.menu-col-3 {
+  width: 20%;
+}
+
+.sekil{
+ position: fixed;
+ left: 1%;
+ z-index: 4;
+
+}
+
+.a{
+  color: white;
+}
+a:hover{
+  text-decoration: none;
+}
+
+.meskan {
+ color: #f9ad40;
+margin: 5px;
+}
+
+.email {
+margin: 5px;
+ color: #f9ad40;
+   
+}
+
+.phone  {
+ margin: 5px;
+ color: #f9ad40;
+
+}
+
+
+
+.event{
+    padding: 100px;
+    background-color: #F4F6F9;
+}
+
+
+.-Events{
+font-size: 40px;
+margin-left: -115px;
+}
+
+.book li{
+    display: inline-block;
+    border: 2px solid;
+    border-radius: 50%;
+    width:25px;
+    text-align: center;
+    
+}
+.book{
+   
+}
+
+
+button{
+    background-color: blue;
+    color:white;
+}
+
+
+.hoder :hover{
+    color: white;
+    background-color:#; 
+
+}
+
+
+
+.btn-events{
+    background-color: blue;
+    border-radius: 20%;
+    color: white;
+    position: relative;
+    right: 500px;
+
+}
+
+.btn-events:hover{
+    background-color:#f9ad40;
+
+}
+
+.btn{
+    padding: 85px 0;
+    color: white;
+}
+
+
+.sol {
+   
+    position: absolute;
+    font-size: 30px;
+    left: 0px;
+    bottom: 185px;
+}
+
+
+.sag {
+   
+     position: absolute;
+    right:0;
+    bottom: 185px;
+    font-size: 30px;
+    
+   
+}
+
+h5{
+    font-size: 20px;
+}
+
+.img{
+    float: left;
+}
+
+.marks{
+    padding: 291px 46px;
+     background-color: #F4F6F9;
+}
+.tayva{
+        position: relative;
+    top: 300px;
+    right: 424px;
+}
+.text {
+    float: right;
+    margin-left: 670px;
+    margin-top: -294px;
+    
+
+}
+
+
+.seh{
+        position: relative;
+    right: 45px;
+    top: 65px;
+    font-size: 30px;
+    color: #15aecf;
+}
+
+.komp{
+        position: relative;
+    right: 47px;
+    top: 55px;
+    font-size: 31px;
+    color: #15aecf;
+}
+.adam{
+
+    position: relative;
+    right: 40px;
+    top: 60px;
+    font-size: 35px;
+    color: #15aecf;
+}
+
+.youtube{
+position: relative;
+    right: 55px;
+    top: 55px;
+    font-size: 40px;
+    color: #15aecf;
+}
+
+.text h1{
+    font-size: 40px;
+    margin-left: -70px;
+}
+
+.up{
+    position: 100px 0;
+}
+
+#img{
+    height: 150px;
+    width: 150px;
+}
+
+.dirnaq{
+ color: #f9ad40 ;
+}
+

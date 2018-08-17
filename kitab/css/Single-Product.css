@@ -1,0 +1,78 @@
+
+.Power{
+	margin-top: 50px;
+}
+
+.qiymet h3{
+text-decoration: line-through;
+color: grey;
+}
+
+.product li{
+	display: inline-block;
+}
+
+
+.qiymet{
+ display: inline-block;
+ 
+}
+
+
+.habbit{
+	height: 500px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.qus{
+	color: #f9ad40;
+	padding-top: 50px;
+}
+
+.kitab{
+    
+     width: 160px;
+}
+
+.sayt a{
+	color: blue;
+}
+.sayt a:hover{
+	color: #f9ad40;
+}
+
+.btn  button {
+	color: #f9ad40;
+	background-color: white;
+	border: 2px solid #f9ad40;
+	border-radius:25%; 
+
+}
+.btn:hover{
+	background-color: #f9ad40;
+	color: white;
+	border-radius:25%;
+}
+
+.add button{
+	color: white;
+	background-color: blue;
+	border-radius: 30px;
+}
+.add button:hover{
+	color: white;
+	background-color:#f9ad40 ;
+	border-radius: 30px;
+}
+
+a:hover{
+	text-decoration: none;
+}
+.is{
+	text-align: center;
+}
+
+

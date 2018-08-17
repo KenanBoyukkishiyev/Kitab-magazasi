@@ -1,0 +1,150 @@
+
+.img{
+	
+	padding: 20px ;
+
+
+}
+.img:hover .iconsi{
+ visibility: visible;
+}
+
+.images{
+	
+	position: relative;
+	bottom: 414px;
+	max-width: 100%;
+	object-fit: cover;
+
+}
+.conn{
+	position: relative;
+	top: 0;
+	left: 0;
+	bottom: 415px;
+	height: 83%;
+	background: rgba(0,0,0,0.2);
+	    transition: 200ms ease-in-out;
+	    display: block;
+	list-style-type: none;
+	    padding: 8px;
+    margin-top: 0;
+
+}
+.iconsi  {
+	visibility: hidden;
+    height: 438px;
+    font-size: 20px;
+    position: relative;
+    top: 24px;
+    z-index: 5;
+    color: white;
+    width: 50px;
+
+}
+.reng{
+	position: relative;
+	bottom: 417px;
+}
+.reng a{
+	color: blue;
+}
+
+.reng a:hover{
+	color:  #f9ad40;
+}
+
+  
+.Columns{
+	padding: 50px;
+	background-color: #cfcece;
+	height: 400px;
+}
+.Mark{
+	    float: right;
+    position: relative;
+    bottom: 175px;
+   
+}
+
+li{
+	display: inline-block;
+
+}
+.Mark a{
+	color: blue;
+}
+
+.Mark a:hover{
+	color:#f9ad40;
+}
+.btn{
+   background-color:  blue;
+
+}
+.btn:hover{
+   background-color: #f9ad40;
+   
+}
+
+.pecters{
+	padding: 100px;
+	text-align:left; 
+}
+
+.ima-responsive{
+	width: 114%;
+	height: 244px;
+	
+}
+.goz{
+	background-color: blue;
+	position: relative;
+	bottom: 73px;
+}
+.goz h4{
+	color: white;
+}
+.goz h4:hover{
+	color:  #f9ad40;
+}
+.goz p{
+	color: rgba(255, 255, 255, 0.5);
+	position: absolute;
+	bottom: 0px;
+	top: 2px;
+	left: 110px;
+}
+
+
+.goz:hover{
+	background-color: #2a2b2d;
+}
+
+.ses{
+	height: 40px;
+	background-color: blue;
+	position: relative;
+	bottom: 90px;
+}
+
+
+.ses h4{
+	color: white;
+}
+.ses h4:hover{
+	color:  #f9ad40;
+}
+.ses p{
+	color: rgba(255, 255, 255, 0.5);
+	position: absolute;
+	bottom: 0px;
+	top: 2px;
+	left: 130px;
+}
+
+
+.ses:hover{
+	background-color: #2a2b2d;
+}
+

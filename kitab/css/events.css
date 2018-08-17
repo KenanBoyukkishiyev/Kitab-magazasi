@@ -1,0 +1,62 @@
+
+
+.events{
+    padding: 180px 0;
+}
+.part1 h4{
+color: blue;
+}
+
+.part1 h4:hover{
+color: #f9ad40;
+}
+
+.part1 a{
+    color: #f9ad40;
+}
+
+.part1 a:hover{
+    color: blue;
+}
+
+.satan{
+    width: 280px;
+    height: 190px;
+}
+ 
+
+.basliq{
+    background-color: blue;
+    width: 80px;
+   position: relative;
+   top:50px;
+   color:white;
+}
+.num{
+    font-size: 30px;
+    color: white;
+}
+
+.last{
+    padding: 50px 0;
+    background-color: silver;
+}
+
+.september{
+    color: #f9ad40;
+}
+.part2 h4{
+    margin-top: -90px;
+}
+.part2 a{
+    color: white;
+}
+
+.part2 a:hover{
+    color: #f9ad40;
+   
+}
+
+
+
+

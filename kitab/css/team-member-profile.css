@@ -1,0 +1,119 @@
+
+
+.member{
+	padding: 50px 0;
+}
+
+.icons i{
+	width: 30px;
+	height:30px;
+	font-size: 20px;
+	border-radius:50%;
+	background-color: grey;
+	color: white;
+	text-align: center;
+	padding-top: 3px;
+
+}
+.icons {
+	
+	padding-top: 5px;
+
+}
+
+
+.tiwit{
+  color: white;
+  
+  
+
+}
+.tiwit:hover{
+	color: white;
+	background-color: #15aecf;
+
+}
+
+.face{
+  color: white;
+  
+  
+
+}
+.face:hover{
+	color: white;
+	background-color: blue;
+
+}
+
+
+.gogle{
+  color: white;
+  
+  
+
+}
+.gogle:hover{
+	color: white;
+	background-color: red;
+
+}
+
+
+.whatsapp{
+  color: white;
+  
+  
+
+}
+.whatsapp:hover{
+	color: white;
+	background-color:green;
+
+}
+
+.instagram{
+  color: white;
+  
+  
+
+}
+.instagram:hover{
+	color: white;
+	background-color:purple;
+
+}
+
+
+
+.Upcoming{
+	padding: 50px;
+	background-color: silver;
+}
+  
+
+  .qiz{
+  	max-width: 400px;
+  }
+
+  .september{
+  	    background-color: blue;
+    position: absolute;
+  }
+
+span{
+	font-size: 20px;
+}
+
+.btn{
+	background-color: #f9ad40;
+
+}
+
+
+.btn:hover{
+	background-color: blue;
+}
+
+
+

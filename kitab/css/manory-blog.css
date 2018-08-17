@@ -1,0 +1,77 @@
+.Gird{
+  padding: 50px;
+  background-color: silver;
+}
+
+.business li,a{
+  display: inline-block;
+}
+.business li ,a:hover{
+  color: #f9ad40
+}
+
+.ticket li,a:hover{
+  color: #f9ad40;
+}
+.btn button{
+  background:blue;
+}
+.btn button:hover{
+  background:  #f9ad40;
+}
+
+.user a{
+  color: blue;
+}
+
+.user a:hover{
+  color: #f9ad40;
+}
+
+.adam{
+  color: #f9ad40;
+}
+.arxa{
+  background-color: white;
+}
+
+.ara{
+      position: absolute;
+    bottom: -29px;
+    background: #fff;
+}
+.img{
+  height: 50px
+}
+
+.noqte a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+ .noqte a:hover {
+    background-color: #f9ad40;
+    color: black;
+}
+
+.previous {
+    background-color: #f9ad40;
+   
+    color: black;
+}
+.previous:hover {
+    background-color:grey;
+   
+    color: black;
+}
+.next {
+    background-color: grey;
+    color: white;
+}
+
+.round {
+    border-radius: 50%;
+    background-color: grey;
+}
+
